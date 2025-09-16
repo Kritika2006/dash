@@ -1,0 +1,53 @@
+# Web Frameworks & Server
+fastapi
+uvicorn[standard]
+streamlit
+
+# Data Handling & Plotting
+pandas
+openpyxl  # Required by pandas for reading .xlsx files
+altair
+requests  # For communication between frontend and backend
+numpy
+matplotlib
+camelot-py[cv]
+
+# AI & Machine Learning
+# Core ML/DL libraries
+torch
+scikit-learn
+
+# NLP / Transformers
+transformers
+sentencepiece # A common dependency for many tokenizers like T5's
+
+# Time-Series Forecasting
+statsmodels
+prophet
+scipy
+
+# Advanced Visualization
+seaborn
+plotly
+bokeh
+
+# Additional ML Libraries
+xgboost
+lightgbm
+imbalanced-learn
+
+# Financial Analysis
+yfinance
+quantlib
+
+# Text Processing & NLP
+nltk
+textblob
+
+# Web Scraping & APIs
+beautifulsoup4
+requests-oauthlib
+
+# Utilities
+python-dotenv
+tqdm
